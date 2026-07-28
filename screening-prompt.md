@@ -12,13 +12,13 @@ for a survey paper titled:
 
   'A Survey of Decentralized  LLM-based Multi-agent Systems for Next-generation AI Agents'
 
-This survey is being written at TU Berlin and reviews the current landscape of
-decentralized LLM-based multi-agent systems. The paper identifies five key research
-gaps: (1) decentralized coordination mechanisms, (2) trust and identity between
-agents, (3) interoperability across heterogeneous systems, (4) delegation and task
-management, and (5) evaluation of multi-agent collaboration. The survey covers both
-foundational frameworks (even centralized ones, as context for why decentralization
-is needed) and cutting-edge work directly addressing these gaps.
+This survey reviews the current landscape of decentralized LLM-based multi-agent
+systems. The paper identifies five key research gaps: (1) decentralized coordination
+mechanisms, (2) trust and identity between agents, (3) interoperability across
+heterogeneous systems, (4) delegation and task management, and (5) evaluation of
+multi-agent collaboration. The survey covers both foundational frameworks (even
+centralized ones, as context for why decentralization is needed) and cutting-edge
+work directly addressing these gaps.
 
 You will be given hundreds of papers to evaluate one by one. For each paper, you
 must score it from 1 to 10 based on how useful it would be to include in this
